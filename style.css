@@ -1,0 +1,12 @@
+#bt {
+    padding: 10px;
+    color: white;
+    background-color: black ;
+    cursor: pointer;
+}
+
+#bt:hover
+{
+    color: black;
+    background-color: white;
+}
